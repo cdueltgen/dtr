@@ -1,0 +1,10 @@
+What it does:
+Gets tweets in a specified time range, then plays them back in real time as you are watching a show.
+
+Features:
+-Ability to pause, resume, ff and rewind playback.
+-Ability to scroll through tweets
+
+Log in with twitter
+Use a calendar widget to schedule date, time, and duration of rec.
+Use streaming API to save tweets to db
